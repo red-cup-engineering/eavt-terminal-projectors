@@ -32,5 +32,9 @@
     "@red-cup-engineering/arnold": "workspace:*",
     "@red-cup-engineering/daleske": "workspace:*",
     "@red-cup-engineering/eavt-services-section": "workspace:*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/eavt-terminal-projectors.git"
   }
 }
