@@ -31,7 +31,7 @@
   "dependencies": {
     "@red-cup-engineering/arnold": "workspace:*",
     "@red-cup-engineering/daleske": "workspace:*",
-    "@red-cup-engineering/eavt-services-section": "workspace:*"
+    "@red-cup-engineering/eavt-engineering-services-section": "workspace:*"
   },
   "repository": {
     "type": "git",
